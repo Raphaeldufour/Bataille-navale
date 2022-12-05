@@ -1,5 +1,3 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
 void AfficherTab(int[,] tab)
 {
 	Console.WriteLine("   A B C D E F G H I J");
